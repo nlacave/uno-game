@@ -1,4 +1,4 @@
-Videojuego ejecutable en consola basado en el juego de cartas UNO de Mattel.
+Videojuego ejecutable en consola basado en el juego de cartas UNO de Mattel. Fue creado para jugar de a dos jugadores en una misma pantalla.
 
 --- REGLAS DEL UNO - CLEAN CODERS ---
 
